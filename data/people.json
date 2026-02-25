@@ -466,7 +466,7 @@
         "Ida1878": {
             "primary": "Ida",
             "full": "Ida C. Reid",
-            "gender": "m",
+            "gender": "f",
             "birth": "1878",
             "death": "1952",
             "parents": [],
@@ -579,7 +579,7 @@
             "gender": "f",
             "birth": "1925-03-25",
             "death": "1992-10-10",
-            "parents": ["John1892", "Catherine1899"],
+            "parents": ["John1892", "Catherine1899", "Ethel1906"],
             "spouses": ["Leslie1912", "Patrick1899"],
             "level": 3
         },
