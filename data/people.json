@@ -507,10 +507,10 @@
             "primary": "Edith",
             "full": "Edith I. Weidemann",
             "gender": "f",
-            "birth": "1903-07",
-            "death": "1985",
+            "birth": "1903-07-19",
+            "death": "1985-07-15",
             "parents": ["Andrew1872", "Ida1878"],
-            "spouses": [],
+            "spouses": ["Clayton1897"],
             "level": 2
         },
         "Clayton1897": {
@@ -539,7 +539,7 @@
             "birth": "1906-10",
             "death": "2000",
             "parents": ["Andrew1872", "Ida1878"],
-            "spouses": [],
+            "spouses": ["Clayton1897"],
             "level": 2
         },
         "Ruby1908": {
