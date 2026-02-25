@@ -374,5 +374,13 @@ function canvasLines() {
     ctx.stroke();
 }
 
+function exportPDF() {
+    const canvas = document.querySelector("canvas");
+    const imgData = canvas.toDataURL("image/png", 1.0)
+    let pdf = new jspdf.jsPDF({orientation: "landscape", unit: "in", format: [17,11]});
+    pdf.addImage(imgData, 'PNG', 0, 0);
+    pdf.save("bowden.pdf");
+}
+
 
 loadFromJson();
