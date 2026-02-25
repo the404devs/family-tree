@@ -452,14 +452,125 @@
             "spouses": ["Catherine1899"],
             "level": 2
         },
+
+        "Andrew1872": {
+            "primary": "Andrew",
+            "full": "Andrew Weidemann",
+            "gender": "m",
+            "birth": "1872-07-30",
+            "death": "1948-12-19",
+            "parents": [],
+            "spouses": ["Ida1878"],
+            "level": 1
+        },
+        "Ida1878": {
+            "primary": "Ida",
+            "full": "Ida C. Reid",
+            "gender": "m",
+            "birth": "1878",
+            "death": "1952",
+            "parents": [],
+            "spouses": ["Andrew1872"],
+            "level": 1
+        },
         "Catherine1899": {
             "primary": "Catherine",
             "full": "Catherine Weidemann",
             "gender": "f",
             "birth": "1899",
             "death": "1963",
-            "parents": [],
+            "parents": ["Andrew1872", "Ida1878"],
             "spouses": ["John1892"],
+            "level": 2
+        },
+        "May1900": {
+            "primary": "May",
+            "full": "May Weidemann",
+            "gender": "f",
+            "birth": "1900",
+            "death": "1973",
+            "parents": ["Andrew1872", "Ida1878"],
+            "spouses": [],
+            "level": 2
+        },
+        "Elizabeth1901": {
+            "primary": "Elizabeth",
+            "full": "Elizabeth Irene Weidemann",
+            "gender": "f",
+            "birth": "1901",
+            "death": "1990",
+            "parents": ["Andrew1872", "Ida1878"],
+            "spouses": [],
+            "level": 2
+        },
+        "Edith1903": {
+            "primary": "Edith",
+            "full": "Edith I. Weidemann",
+            "gender": "f",
+            "birth": "1903",
+            "death": "1985",
+            "parents": ["Andrew1872", "Ida1878"],
+            "spouses": [],
+            "level": 2
+        },
+        "Henry1904": {
+            "primary": "Henry",
+            "full": "Henry Weidemann",
+            "gender": "m",
+            "birth": "1904",
+            "death": "1983",
+            "parents": ["Andrew1872", "Ida1878"],
+            "spouses": [],
+            "level": 2
+        },
+        "Ethel1906": {
+            "primary": "Ethel",
+            "full": "Ethel Lillian Weidemann",
+            "gender": "f",
+            "birth": "1906",
+            "death": "2000",
+            "parents": ["Andrew1872", "Ida1878"],
+            "spouses": [],
+            "level": 2
+        },
+        "Ruby1908": {
+            "primary": "Ruby",
+            "full": "Ruby Reta Weidemann",
+            "gender": "f",
+            "birth": "1908-09-12",
+            "death": "1993-09-28",
+            "parents": ["Andrew1872", "Ida1878"],
+            "spouses": [],
+            "level": 2
+        },
+        "Hugh1911": {
+            "primary": "Hugh",
+            "full": "Hugh N. Weidemann",
+            "gender": "m",
+            "birth": "1911",
+            "death": "1975",
+            "parents": ["Andrew1872", "Ida1878"],
+            "spouses": [],
+            "level": 2
+        },
+        "Tom1913": {
+            "primary": "Tom",
+            "full": "Thomas Weidemann",
+            "gender": "m",
+            "birth": "1913",
+            "death": "1981",
+            "parents": ["Andrew1872", "Ida1878"],
+            "spouses": [],
+            "level": 2
+        },
+        "Pearl1914": {
+            "primary": "Pearl",
+            "full": "Pearl Weidemann",
+            "gender": "f",
+            "birth": "1914",
+            "death": "1996",
+            "parents": ["Andrew1872", "Ida1878"],
+            "spouses": [],
             "level": 2
         },
         "Mary1925": {
@@ -802,7 +913,7 @@
             "level": 5
         },
         "Tamara2000": {
-            "primary": "Tasia",
+            "primary": "Tamara",
             "full": "Tamara Bowden",
             "gender": "f",
             "birth": "2000-08-31",
