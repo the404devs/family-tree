@@ -5,7 +5,7 @@
             "full": "James Pering Bowden",
             "gender": "m",
             "birth": "1823",
-            "death": "1904",
+            "death": "1904-06-03",
             "parents": [],
             "spouses": ["Mary1824"],
             "level": 0
@@ -513,6 +513,15 @@
             "spouses": [],
             "level": 2
         },
+        "Clayton1897": {
+            "primary": "Clayton",
+            "full": "Clayton McLellan",
+            "birth": "1897",
+            "death": "1975",
+            "parents": [],
+            "spouses": ["Edith1903", "Ethel1906"],
+            "level": 2.25
+        },
         "Henry1904": {
             "primary": "Henry",
             "full": "Henry Weidemann",
@@ -589,7 +598,7 @@
             "gender": "f",
             "birth": "1925-03-25",
             "death": "1992-10-10",
-            "parents": ["John1892", "Catherine1899", "Ethel1906"],
+            "parents": ["John1892", "Catherine1899", "Ethel1906", "Clayton1897"],
             "spouses": ["Leslie1912", "Patrick1899"],
             "level": 3
         },
