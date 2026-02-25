@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Family Tree</title>
+        <link rel="stylesheet" type="text/css" href="./css/style.css">
+        <!-- <link rel="shortcut icon" type="image/x-icon" href="img/clock.png"> -->
+        <script src="https://kit.fontawesome.com/a79a931136.js" crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <div class="header">
+            <div class="logo">
+                <div class="logo-big">Bowden Family Tree</div>
+            </div>
+        </div>
+
+        <div class="content-wrapper">
+            <div class="content" style="padding: 0; margin: 0 10px;">
+                <div class="column full">
+                    <div class="vis-container" id="vis-container" style="height: 73vh;">
+                        <div></div> 
+                    </div>
+                    <button class="slimbutton" onclick="saveNodePositions()">Save</button>
+                </div>
+            </div>
+        </div>
+
+
+            
+
+            
+        <div class="footer subtle">
+            <span class="foot-text">Revision 1 - 2026-02-24</span>
+        </div>
+
+        <script type="text/javascript" src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+        <script src="./js/familytree.js"></script>
+    </body>
+</html>
