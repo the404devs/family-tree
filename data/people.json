@@ -475,7 +475,7 @@
         },
         "Catherine1899": {
             "primary": "Catherine",
-            "full": "Catherine Weidemann",
+            "full": "Catherine Sophia Weidemann",
             "gender": "f",
             "birth": "1899-06",
             "death": "1963",
@@ -505,7 +505,7 @@
         },
         "Edith1903": {
             "primary": "Edith",
-            "full": "Edith I. Weidemann",
+            "full": "Edith Ida Weidemann",
             "gender": "f",
             "birth": "1903-07-19",
             "death": "1985-07-15",
@@ -523,8 +523,8 @@
             "level": 2.25
         },
         "Henry1904": {
-            "primary": "Henry",
-            "full": "Henry Weidemann",
+            "primary": "John",
+            "full": "John Henry \"Hughie\" Weidemann",
             "gender": "m",
             "birth": "1904-11",
             "death": "1983",
@@ -544,7 +544,7 @@
         },
         "Ruby1908": {
             "primary": "Ruby",
-            "full": "Ruby Reta Weidemann",
+            "full": "Ruby Retta Weidemann",
             "gender": "f",
             "birth": "1908-09-12",
             "death": "1993-09-28",
@@ -557,17 +557,7 @@
             "full": "Alice Weidemann",
             "gender": "f",
             "birth": "1910-03",
-            "death": "?",
-            "parents": ["Andrew1872", "Ida1878"],
-            "spouses": [],
-            "level": 2
-        },
-        "Hugh1911": {
-            "primary": "Hugh",
-            "full": "Hugh N. Weidemann",
-            "gender": "m",
-            "birth": "1911",
-            "death": "1975",
+            "death": "1972",
             "parents": ["Andrew1872", "Ida1878"],
             "spouses": [],
             "level": 2
