@@ -302,7 +302,7 @@ function generateNodesAndEdges(people, relations) {
                 const parent1 = people[person].parents[0];
                 const parent2 = people[person].parents[1];
                 const parent3 = people[person].parents[2];
-                const parent4 = people[person].parents[4];
+                const parent4 = people[person].parents[3];
                 // Find junction node for the parents' marriage
                 let junctionId = `${parent1}-${parent2}`;
                 if (!nodes.find(node => node.id === junctionId)) {
