@@ -297,6 +297,29 @@ function generateNodesAndEdges(people, relations) {
                     font: {align: 'middle'},
                 });
                 
+            } else if (people[person].parents.length === 3) {
+                // Edge case for Mary Gilstorf
+                const parent1 = people[person].parents[0];
+                const parent2 = people[person].parents[1];
+                const parent3 = people[person].parents[2];
+                // Find junction node for the parents' marriage
+                let junctionId = `${parent1}-${parent2}`;
+                if (!nodes.find(node => node.id === junctionId)) {
+                    junctionId = `${parent2}-${parent1}`;
+                }
+                // Connect the child to the junction node
+                edges.push({
+                    from: junctionId,
+                    to: person,
+                    arrows: 'to',
+                    font: {align: 'middle'},
+                });
+                edges.push({
+                    from: parent3,
+                    to: person,
+                    arrows: 'to',
+                    font: {align: 'middle'},
+                });
             } else {
                 people[person].parents.forEach(parent => {
                     const edge = {
