@@ -519,7 +519,7 @@
             "birth": "1897",
             "death": "1975",
             "parents": [],
-            "spouses": ["Edith1903", "Ethel1906"],
+            "spouses": ["Edith1903"],
             "level": 2.25
         },
         "Henry1904": {
@@ -533,13 +533,13 @@
             "level": 2
         },
         "Ethel1906": {
-            "primary": "Ethel",
-            "full": "Ethel Lillian Weidemann",
+            "primary": "Lillian",
+            "full": "Lillian Ethel Weidemann",
             "gender": "f",
             "birth": "1906-10",
             "death": "2000",
             "parents": ["Andrew1872", "Ida1878"],
-            "spouses": ["Clayton1897"],
+            "spouses": [],
             "level": 2
         },
         "Ruby1908": {
