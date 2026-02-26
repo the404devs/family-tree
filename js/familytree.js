@@ -58,7 +58,7 @@ const options = {
       enabled: true,
     //   solver: "forceAtlas2Based"
       hierarchicalRepulsion: {
-        nodeDistance: 100,
+        nodeDistance: 155,
         centralGravity: 0.1,
         springConstant: 0.02,
         damping: 1,
