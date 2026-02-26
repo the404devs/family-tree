@@ -42,7 +42,7 @@ const options = {
         treeSpacing: 0, 
         levelSeparation: 200, 
         shakeTowards: 'leaves',
-        parentCentralization: true,
+        // parentCentralization: true,
         edgeMinimization: true,
         blockShifting: true,
       },
@@ -371,8 +371,8 @@ function canvasLines() {
     const canvas = document.querySelector('canvas');
     const ctx = canvas.getContext("2d");
     ctx.beginPath();
-    let y = -700;
-    while (y < 800) {
+    let y = -900;
+    while (y < 1000) {
         ctx.moveTo(-10000, y);
         ctx.lineTo(10000, y);
         y += 200;

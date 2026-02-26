@@ -8,7 +8,7 @@
             "death": "1904-06-03",
             "parents": [],
             "spouses": ["Mary1824"],
-            "level": 0
+            "level": 1
         },
         "Mary1824": {
             "primary": "Mary",
@@ -18,7 +18,7 @@
             "death": "1887",
             "parents": [],
             "spouses": ["James1823"],
-            "level": 0
+            "level": 1
         },
         
         "Robert1847": {
@@ -28,7 +28,7 @@
             "birth": "1847",
             "death": "1929-06-20",
             "parents": ["James1823", "Mary1824"],
-            "level": 1
+            "level": 2
         },
         "John1848": {
             "primary": "John",
@@ -37,7 +37,7 @@
             "birth": "1848-04-03",
             "death": "?",
             "parents": ["James1823", "Mary1824"],
-            "level": 1
+            "level": 2
         },
         "Mary1849": {
             "primary": "Mary",
@@ -46,7 +46,7 @@
             "birth": "1849-07-10",
             "death": "?",
             "parents": ["James1823", "Mary1824"],
-            "level": 1
+            "level": 2
         },
         "George1851": {
             "primary": "George",
@@ -56,7 +56,7 @@
             "death": "1915-09",
             "parents": ["James1823", "Mary1824"],
             "spouses": ["Emily1853"],
-            "level": 1
+            "level": 2
         },
         "Thomas1854": {
             "primary": "Thomas",
@@ -65,7 +65,7 @@
             "birth": "1854",
             "death": "?",
             "parents": ["James1823", "Mary1824"],
-            "level": 1
+            "level": 2
         },
         "Susan1855": {
             "primary": "Susan",
@@ -74,7 +74,7 @@
             "birth": "1855",
             "death": "?",
             "parents": ["James1823", "Mary1824"],
-            "level": 1
+            "level": 2
         },
         "Frederick1857": {
             "primary": "Frederick",
@@ -83,7 +83,7 @@
             "birth": "1857",
             "death": "?",
             "parents": ["James1823", "Mary1824"],
-            "level": 1
+            "level": 2
         },
         "Edwin1860": {
             "primary": "Edwin",
@@ -92,7 +92,7 @@
             "birth": "1860",
             "death": "?",
             "parents": ["James1823", "Mary1824"],
-            "level": 1
+            "level": 2
         },
         "James1862": {
             "primary": "James",
@@ -101,7 +101,7 @@
             "birth": "1862",
             "death": "?",
             "parents": ["James1823", "Mary1824"],
-            "level": 1
+            "level": 2
         },
         "Caroline1864": {
             "primary": "Caroline",
@@ -110,7 +110,7 @@
             "birth": "1864",
             "death": "?",
             "parents": ["James1823", "Mary1824"],
-            "level": 1
+            "level": 2
         },
         "Jane1866": {
             "primary": "Jane",
@@ -119,7 +119,7 @@
             "birth": "1866",
             "death": "?",
             "parents": ["James1823", "Mary1824"],
-            "level": 1
+            "level": 2
         },
         "Walter1869": {
             "primary": "Walter",
@@ -128,7 +128,7 @@
             "birth": "1869",
             "death": "?",
             "parents": ["James1823", "Mary1824"],
-            "level": 1
+            "level": 2
         },
         
 
@@ -140,7 +140,7 @@
             "death": "?",
             "parents": [],
             "spouses": ["George1851"],
-            "level": 1.25
+            "level": 2.25
         },
         
         "Susan1877": {
@@ -151,7 +151,7 @@
             "death": "1962",
             "parents": ["George1851", "Emily1853"],
             "spouses": [],
-            "level": 2
+            "level": 3
         },
         "Emily1878": {
             "primary": "Emily",
@@ -161,7 +161,7 @@
             "death": "?",
             "parents": ["George1851", "Emily1853"],
             "spouses": [],
-            "level": 2
+            "level": 3
         },
         "Rose1880": {
             "primary": "Rose",
@@ -171,7 +171,7 @@
             "death": "?",
             "parents": ["George1851", "Emily1853"],
             "spouses": [],
-            "level": 2
+            "level": 3
         },
         "William1883": {
             "primary": "William",
@@ -181,7 +181,7 @@
             "death": "1941-03-13",
             "parents": ["George1851", "Emily1853"],
             "spouses": ["Mary1888"],
-            "level": 2
+            "level": 3
         },
         "Annie1885": {
             "primary": "Annie",
@@ -191,7 +191,7 @@
             "death": "?",
             "parents": ["George1851", "Emily1853"],
             "spouses": [],
-            "level": 2
+            "level": 3
         },
         "Ethel1887": {
             "primary": "Ethel",
@@ -201,7 +201,7 @@
             "death": "1929-07",
             "parents": ["George1851", "Emily1853"],
             "spouses": [],
-            "level": 2
+            "level": 3
         },
         "Beatrice1892": {
             "primary": "Beatrice",
@@ -211,7 +211,7 @@
             "death": "?",
             "parents": ["George1851", "Emily1853"],
             "spouses": [],
-            "level": 2
+            "level": 3
         },
 
         "Mary1888": {
@@ -222,7 +222,7 @@
             "death": "1964-06",
             "parents": [],
             "spouses": ["William1883"],
-            "level": 2.25
+            "level": 3.25
         },
         "William1916": {
             "primary": "William",
@@ -232,7 +232,7 @@
             "death": "1978-02-04",
             "parents": ["William1883", "Mary1888"],
             "spouses": [],
-            "level": 3
+            "level": 4
         },
         "Douglas1920": {
             "primary": "Douglas",
@@ -242,7 +242,7 @@
             "death": "1997-05",
             "parents": ["William1883", "Mary1888"],
             "spouses": [],
-            "level": 3
+            "level": 4
         },
         "Joan1919": {
             "primary": "Joan",
@@ -252,7 +252,7 @@
             "death": "?",
             "parents": ["William1883", "Mary1888"],
             "spouses": [],
-            "level": 3
+            "level": 4
         },
         "Audrey1922": {
             "primary": "Audrey",
@@ -262,7 +262,7 @@
             "death": "1990",
             "parents": ["William1883", "Mary1888"],
             "spouses": [],
-            "level": 3
+            "level": 4
         },
         "Edith1922": {
             "primary": "Edith",
@@ -272,7 +272,7 @@
             "death": "1969-11-17",
             "parents": ["William1883", "Mary1888"],
             "spouses": ["William1919"],
-            "level": 3
+            "level": 4
         },
 
         "William1919": {
@@ -283,7 +283,7 @@
             "death": "2021-02-10",
             "parents": [],
             "spouses": ["Edith1922"],
-            "level": 3.25
+            "level": 4.25
         },
         "William1951": {
             "primary": "William",
@@ -293,7 +293,7 @@
             "death": "",
             "parents": ["William1919", "Edith1922"],
             "spouses": ["Lynn1952"],
-            "level": 4
+            "level": 5
         },
         "Susan1951": {
             "primary": "Susan",
@@ -303,7 +303,7 @@
             "death": "",
             "parents": ["William1919", "Edith1922"],
             "spouses": [],
-            "level": 4
+            "level": 5
         },
         "Irene1947": {
             "primary": "Irene",
@@ -313,7 +313,7 @@
             "death": "",
             "parents": ["William1919", "Edith1922"],
             "spouses": [],
-            "level": 4
+            "level": 5
         },
         "Jean1945": {
             "primary": "Jean",
@@ -323,7 +323,7 @@
             "death": "",
             "parents": ["William1919", "Edith1922"],
             "spouses": [],
-            "level": 4
+            "level": 5
         },
         "Lynn1952": {
             "primary": "Lynn",
@@ -333,7 +333,7 @@
             "death": "",
             "parents": [],
             "spouses": ["William1951"],
-            "level": 4.25
+            "level": 5.25
         },
         "Sam1980": {
             "primary": "Sam",
@@ -343,7 +343,7 @@
             "death": "",
             "parents": ["William1951", "Lynn1952"],
             "spouses": ["Helen1981", "Elaine1981"],
-            "level": 5
+            "level": 6
         },
         "Clare1983": {
             "primary": "Clare",
@@ -353,7 +353,7 @@
             "death": "",
             "parents": ["William1951", "Lynn1952"],
             "spouses": [],
-            "level": 5
+            "level": 6
         },
         "John1993": {
             "primary": "John",
@@ -363,7 +363,7 @@
             "death": "",
             "parents": ["William1951", "Lynn1952"],
             "spouses": [],
-            "level": 5
+            "level": 6
         },
         "Helen1981": {
             "primary": "Helen",
@@ -373,7 +373,7 @@
             "death": "",
             "parents": [],
             "spouses": ["Sam1980"],
-            "level": 5.25
+            "level": 6.25
         },
         "Elaine1981": {
             "primary": "Elaine",
@@ -383,7 +383,7 @@
             "death": "",
             "parents": [],
             "spouses": ["Sam1980"],
-            "level": 5.25
+            "level": 6.25
         },
         "Esme2008": {
             "primary": "Esme",
@@ -392,7 +392,7 @@
             "birth": "2008-01-22",
             "death": "",
             "parents": ["Sam1980", "Helen1981"],
-            "level": 6
+            "level": 7
         },
         "Lana2011": {
             "primary": "Lana",
@@ -401,7 +401,7 @@
             "birth": "2011-11-23",
             "death": "",
             "parents": ["Sam1980", "Helen1981"],
-            "level": 6
+            "level": 7
         },
         "Farah2016": {
             "primary": "Farah",
@@ -410,7 +410,7 @@
             "birth": "2016-07-08",
             "death": "",
             "parents": ["Sam1980", "Elaine1981"],
-            "level": 6
+            "level": 7
         },
         "Hugo2018": {
             "primary": "Hugo",
@@ -419,7 +419,7 @@
             "birth": "2018-09-17",
             "death": "",
             "parents": ["Sam1980", "Elaine1981"],
-            "level": 6
+            "level": 7
         },
 
         "Stella1913": {
@@ -430,7 +430,7 @@
             "death": "1989-06-06",
             "parents": ["Annie1885"],
             "spouses": [],
-            "level": 3
+            "level": 4
         },
         "Leslie1912": {
             "primary": "Leslie",
@@ -440,7 +440,7 @@
             "death": "1971-06-01",
             "parents": ["Annie1885"],
             "spouses": ["Mary1925"],
-            "level": 3
+            "level": 4
         },
         "John1892": {
             "primary": "John",
@@ -450,7 +450,50 @@
             "death": "1964",
             "parents": [],
             "spouses": ["Catherine1899"],
-            "level": 2
+            "level": 3
+        },
+
+        "Christian1776": {
+            "primary": "Christian",
+            "full": "Christian Heinrich Weidemann",
+            "gender": "m",
+            "birth": "1776-07-26",
+            "death": "1840-12-18",
+            "parents": [],
+            "spouses": ["Christiana1796"],
+            "level": 0
+        },
+        "Christiana1796": {
+            "primary": "Chirstiana",
+            "full": "Chirstiana Maria Elisabeth Springhuth",
+            "gender": "f",
+            "birth": "1796-09-16",
+            "death": "1861",
+            "parents": [],
+            "spouses": ["Christian1776"],
+            "level": 0
+        },
+
+
+        "Christoph1819": {
+            "primary": "Christoph",
+            "full": "Christoph Weidemann",
+            "gender": "m",
+            "birth": "1819-07-01",
+            "death": "1887-05-05",
+            "parents": ["Christian1776","Christiana1796"],
+            "spouses": ["Hannah1829"],
+            "level": 1
+        },
+        "Hannah1829": {
+            "primary": "Hannah",
+            "full": "Hannah Sophia Christina Trage",
+            "gender": "f",
+            "birth": "1829-01-28",
+            "death": "1896-08-29",
+            "parents": [],
+            "spouses": ["Christoph1819"],
+            "level": 1
         },
 
         "Andrew1872": {
@@ -459,19 +502,79 @@
             "gender": "m",
             "birth": "1872-07-30",
             "death": "1948-12-19",
-            "parents": [],
+            "parents": ["Christoph1819", "Hannah1829"],
             "spouses": ["Ida1878"],
+            "level": 2
+        },
+        "William1781": {
+            "primary": "William",
+            "full": "William Reid",
+            "gender": "m",
+            "birth": "1781-06-18",
+            "death": "?",
+            "parents": [],
+            "spouses": ["Jean1780"],
+            "level": -1
+        },
+        "Jean1780": {
+            "primary": "Jean",
+            "full": "Jean Patterson",
+            "gender": "f",
+            "birth": "1780-06-26",
+            "death": "1865",
+            "parents": [],
+            "spouses": ["William1781"],
+            "level": -1
+        },
+        "William1813": {
+            "primary": "William",
+            "full": "William Reid",
+            "gender": "m",
+            "birth": "1813-03-02",
+            "death": "1884-04-20",
+            "parents": ["William1781", "Jean1780"],
+            "spouses": ["Helen1815"],
+            "level": 0
+        },
+        "Helen1815": {
+            "primary": "Helen",
+            "full": "Helen Ellen Gillispie",
+            "gender": "f",
+            "birth": "1815-11-03",
+            "death": "1880-05-05",
+            "parents": [],
+            "spouses": ["William1813"],
+            "level": 0
+        },
+        "Hugh1847": {
+            "primary": "Hugh",
+            "full": "Hugh Reid",
+            "gender": "m",
+            "birth": "1847-08-25",
+            "death": "1929-06-03",
+            "parents": ["William1813", "Helen1815"],
+            "spouses": ["Catherine1847"],
+            "level": 1
+        },
+        "Catherine1847": {
+            "primary": "Catherine",
+            "full": "Catherine Gray",
+            "gender": "f",
+            "birth": "1847-09-19",
+            "death": "1919-12-25",
+            "parents": [],
+            "spouses": ["Hugh1847"],
             "level": 1
         },
         "Ida1878": {
             "primary": "Ida",
-            "full": "Ida C. Reid",
+            "full": "Ida Catherine Reid",
             "gender": "f",
             "birth": "1878",
             "death": "1952",
-            "parents": [],
+            "parents": ["Hugh1847", "Catherine1847"],
             "spouses": ["Andrew1872"],
-            "level": 1
+            "level": 2
         },
         "Catherine1899": {
             "primary": "Catherine",
@@ -481,7 +584,7 @@
             "death": "1963",
             "parents": ["Andrew1872", "Ida1878"],
             "spouses": ["John1892"],
-            "level": 2
+            "level": 3
         },
         "May1900": {
             "primary": "May",
@@ -491,7 +594,7 @@
             "death": "1973",
             "parents": ["Andrew1872", "Ida1878"],
             "spouses": [],
-            "level": 2
+            "level": 3
         },
         "Elizabeth1901": {
             "primary": "Lizzie",
@@ -501,7 +604,7 @@
             "death": "1990",
             "parents": ["Andrew1872", "Ida1878"],
             "spouses": [],
-            "level": 2
+            "level": 3
         },
         "Edith1903": {
             "primary": "Edith",
@@ -511,7 +614,7 @@
             "death": "1985-07-15",
             "parents": ["Andrew1872", "Ida1878"],
             "spouses": ["Clayton1897"],
-            "level": 2
+            "level": 3
         },
         "Clayton1897": {
             "primary": "Clayton",
@@ -520,7 +623,7 @@
             "death": "1975",
             "parents": [],
             "spouses": ["Edith1903"],
-            "level": 2.25
+            "level": 3.25
         },
         "Henry1904": {
             "primary": "John",
@@ -530,7 +633,7 @@
             "death": "1983",
             "parents": ["Andrew1872", "Ida1878"],
             "spouses": [],
-            "level": 2
+            "level": 3
         },
         "Ethel1906": {
             "primary": "Lillian",
@@ -540,7 +643,7 @@
             "death": "2000",
             "parents": ["Andrew1872", "Ida1878"],
             "spouses": [],
-            "level": 2
+            "level": 3
         },
         "Ruby1908": {
             "primary": "Ruby",
@@ -550,7 +653,7 @@
             "death": "1993-09-28",
             "parents": ["Andrew1872", "Ida1878"],
             "spouses": [],
-            "level": 2
+            "level": 3
         },
         "Alice1910": {
             "primary": "Alice",
@@ -560,7 +663,7 @@
             "death": "1972",
             "parents": ["Andrew1872", "Ida1878"],
             "spouses": [],
-            "level": 2
+            "level": 3
         },
         "Tom1913": {
             "primary": "Tom",
@@ -570,7 +673,7 @@
             "death": "1981",
             "parents": ["Andrew1872", "Ida1878"],
             "spouses": [],
-            "level": 2
+            "level": 3
         },
         "Pearl1914": {
             "primary": "Pearl",
@@ -580,7 +683,7 @@
             "death": "1996",
             "parents": ["Andrew1872", "Ida1878"],
             "spouses": [],
-            "level": 2
+            "level": 3
         },
         "Mary1925": {
             "primary": "Mary",
@@ -590,8 +693,101 @@
             "death": "1992-10-10",
             "parents": ["John1892", "Catherine1899", "Ethel1906", "Clayton1897"],
             "spouses": ["Leslie1912", "Patrick1899"],
-            "level": 3
+            "level": 4
         },
+
+        "Pearl1924": {
+            "primary": "Pearl",
+            "full": "Pearl McLellan",
+            "gender": "f",
+            "birth": "1924",
+            "death": "1956-12-08",
+            "parents": ["Edith1903", "Clayton1897"],
+            "spouses": [],
+            "level": 4
+        },
+        "Wilbur1924": {
+            "primary": "Wilbur",
+            "full": "Wilbur Munro McLellan",
+            "gender": "m",
+            "birth": "1924-08-05",
+            "death": "2007-10-02",
+            "parents": ["Edith1903", "Clayton1897"],
+            "spouses": [],
+            "level": 4
+        },
+        "Gordon1926": {
+            "primary": "Gordon",
+            "full": "Gordon McLellan",
+            "gender": "m",
+            "birth": "1926",
+            "death": "1992-10-20",
+            "parents": ["Edith1903", "Clayton1897"],
+            "spouses": [],
+            "level": 4
+        },
+        "Howard1928": {
+            "primary": "Howard",
+            "full": "Howard Leslie McLellan",
+            "gender": "m",
+            "birth": "1928",
+            "death": "2009-02-06",
+            "parents": ["Edith1903", "Clayton1897"],
+            "spouses": [],
+            "level": 4
+        },
+        "John1931": {
+            "primary": "John",
+            "full": "John Ross McLellan",
+            "gender": "m",
+            "birth": "1931-07-21",
+            "death": "2003",
+            "parents": ["Edith1903", "Clayton1897"],
+            "spouses": [],
+            "level": 4
+        },
+        "Lorne1934": {
+            "primary": "Lorne",
+            "full": "Lorne Grant McLellan",
+            "gender": "m",
+            "birth": "1934",
+            "death": "2012",
+            "parents": ["Edith1903", "Clayton1897"],
+            "spouses": [],
+            "level": 4
+        },
+        "Donald1937": {
+            "primary": "Donald",
+            "full": "Donald McLellan",
+            "gender": "m",
+            "birth": "1937",
+            "death": "2014",
+            "parents": ["Edith1903", "Clayton1897"],
+            "spouses": [],
+            "level": 4
+        },
+        "Maria": {
+            "primary": "Maria",
+            "full": "Maria McLellan",
+            "gender": "f",
+            "birth": "?",
+            "death": "?",
+            "parents": ["Edith1903", "Clayton1897"],
+            "spouses": [],
+            "level": 4
+        },
+        "Isabella1941": {
+            "primary": "Isabella",
+            "full": "Isabella McLellan",
+            "gender": "f",
+            "birth": "1941",
+            "death": "?",
+            "parents": ["Edith1903", "Clayton1897"],
+            "spouses": [],
+            "level": 4
+        },
+
+
         "Patrick1899": {
             "primary": "Patrick",
             "full": "Patrick Corrigan",
@@ -600,7 +796,7 @@
             "death": "?",
             "parents": ["", ""],
             "spouses": ["Mary1925"],
-            "level": 3
+            "level": 4
         },
         "Infant1941": {
             "primary": "?",
@@ -609,7 +805,7 @@
             "birth": "1941-01-21",
             "death": "1941-01-21",
             "parents": ["Mary1925", "Patrick1899"],
-            "level": 3.5
+            "level": 4.5
         },
         "Jim1949": {
             "primary": "Jim",
@@ -619,7 +815,7 @@
             "death": "2025-11-14",
             "parents": ["Leslie1912", "Mary1925"],
             "spouses": ["Sharon", "Donna1954"],
-            "level": 4
+            "level": 5
         },
 
         "Sharon": {
@@ -630,7 +826,7 @@
             "death": "",
             "parents": [],
             "spouses": ["Jim1949"],
-            "level": 4.25
+            "level": 5.25
         },
         "Dave1951": {
             "primary": "Dave",
@@ -640,7 +836,7 @@
             "death": "",
             "parents": ["Leslie1912", "Mary1925"],
             "spouses": ["Brenda"],
-            "level": 4
+            "level": 5
         },
         "MaryJane1952": {
             "primary": "Mary Jane",
@@ -649,7 +845,8 @@
             "birth": "1952-10-01",
             "death": "",
             "parents": ["Leslie1912", "Mary1925"],
-            "level": 4
+            "spouses": ["Donald"],
+            "level": 5
         },
         "Robert1954": {
             "primary": "Robert",
@@ -658,7 +855,7 @@
             "birth": "1954-01-07",
             "death": "1959-01-16",
             "parents": ["Leslie1912", "Mary1925"],
-            "level": 4
+            "level": 5
         },
         "George1954": {
             "primary": "George",
@@ -667,7 +864,7 @@
             "birth": "1954-12-24",
             "death": "1959-01-16",
             "parents": ["Leslie1912", "Mary1925"],
-            "level": 4
+            "level": 5
         },
         "Jackie1956": {
             "primary": "Jackie",
@@ -676,7 +873,7 @@
             "birth": "1956-12-28",
             "death": "1959-01-16",
             "parents": ["Leslie1912", "Mary1925"],
-            "level": 4
+            "level": 5
         },
         "Ken1958": {
             "primary": "Ken",
@@ -686,7 +883,7 @@
             "death": "",
             "parents": ["Leslie1912", "Mary1925"],
             "spouses": ["Lynn1958"],
-            "level": 4
+            "level": 5
         },
         "Charlie1959": {
             "primary": "Charlie",
@@ -696,7 +893,7 @@
             "death": "",
             "parents": ["Leslie1912", "Mary1925"],
             "spouses": ["Jane1958"],
-            "level": 4
+            "level": 5
         },
         "Tom1962": {
             "primary": "Tom",
@@ -706,7 +903,7 @@
             "death": "",
             "parents": ["Leslie1912", "Mary1925"],
             "spouses": ["Karen1963"],
-            "level": 4
+            "level": 5
         },
         "Rose1965": {
             "primary": "Rose",
@@ -716,7 +913,7 @@
             "death": "",
             "parents": ["Leslie1912", "Mary1925"],
             "spouses": ["Glenn1962"],
-            "level": 4
+            "level": 5
         },
         "Glenn1962": {
             "primary": "Glenn",
@@ -726,7 +923,7 @@
             "death": "",
             "parents": [],
             "spouses": ["Rose1965"],
-            "level": 4.25
+            "level": 5.25
         },
         "Emily1996": {
             "primary": "Emily",
@@ -735,7 +932,7 @@
             "birth": "1996-06-20",
             "death": "",
             "parents": ["Rose1965", "Glenn1962"],
-            "level": 5
+            "level": 6
         },
         "Owen2000": {
             "primary": "Owen",
@@ -744,7 +941,7 @@
             "birth": "2000-09-07",
             "death": "",
             "parents": ["Rose1965", "Glenn1962"],
-            "level": 5
+            "level": 6
         },
         "Donna1954": {
             "primary": "Donna",
@@ -754,7 +951,7 @@
             "death": "",
             "parents": [],
             "spouses": ["Jim1949"],
-            "level": 4.25
+            "level": 5.25
         },
         "Sherry1970": {
             "primary": "Sherry",
@@ -764,7 +961,7 @@
             "death": "",
             "parents": ["Jim1949", "Sharon"],
             "spouses": ["Dan1966"],
-            "level": 5
+            "level": 6
         },
         "Michael1973": {
             "primary": "Michael",
@@ -774,7 +971,7 @@
             "death": "",
             "parents": ["Jim1949", "Sharon"],
             "spouses": ["Chris1973"],
-            "level": 5
+            "level": 6
         },
         "Jimmy1979": {
             "primary": "Jimmy",
@@ -784,7 +981,7 @@
             "death": "",
             "parents": ["Jim1949", "Sharon"],
             "spouses": ["Keri1974"],
-            "level": 5
+            "level": 6
         },
         "Dan1966": {
             "primary": "Dan",
@@ -793,7 +990,7 @@
             "birth": "1966-04-18",
             "death": "",
             "spouses": ["Sherry1970"],
-            "level": 5.25
+            "level": 6.25
         },
         "Chris1973": {
             "primary": "Chris",
@@ -802,7 +999,7 @@
             "birth": "1973-03-17",
             "death": "",
             "spouses": ["Michael1973"],
-            "level": 5.25
+            "level": 6.25
         },
         "Rayne2004": {
             "primary": "Rayne",
@@ -811,7 +1008,7 @@
             "birth": "2004-08-15",
             "death": "",
             "parents": ["Michael1973", "Chris1973"],
-            "level": 6
+            "level": 7
         },
         "Autumn2007": {
             "primary": "Autumn",
@@ -820,7 +1017,7 @@
             "birth": "2007-08-06",
             "death": "",
             "parents": ["Michael1973", "Chris1973"],
-            "level": 6
+            "level": 7
         },
         "Keri1974": {
             "primary": "Keri",
@@ -829,7 +1026,7 @@
             "birth": "1974-03-15",
             "death": "",
             "spouses": ["Jimmy1979"],
-            "level": 5.25
+            "level": 6.25
         },
         "Kurtis1994": {
             "primary": "Kurtis",
@@ -838,7 +1035,7 @@
             "birth": "1994-09-29",
             "death": "",
             "parents": ["Jimmy1979", "Keri1974"],
-            "level": 6
+            "level": 7
         },
         "Korie1999": {
             "primary": "Korie",
@@ -847,7 +1044,7 @@
             "birth": "1999-11-09",
             "death": "",
             "parents": ["Jimmy1979", "Keri1974"],
-            "level": 6
+            "level": 7
         },
         "Sammie2000": {
             "primary": "Sammie",
@@ -856,25 +1053,35 @@
             "birth": "2000-09-08",
             "death": "",
             "parents": ["Jimmy1979", "Keri1974"],
-            "level": 6
+            "level": 7
+        },
+        "Donald": {
+            "primary": "Donald",
+            "full": "Donald Sims",
+            "gender": "m",
+            "birth": "?",
+            "death": "",
+            "parents": [],
+            "spouses": ["MaryJane1952"],
+            "level": 5.25
         },
         "Donny1972": {
             "primary": "Donny",
-            "full": "",
+            "full": "Donald Sims",
             "gender": "m",
             "birth": "1972-11-14",
             "death": "",
-            "parents": ["MaryJane1952"],
-            "level": 5
+            "parents": ["MaryJane1952", "Donald"],
+            "level": 6
         },
         "Chad1975": {
             "primary": "Chad",
-            "full": "",
+            "full": "Chad Sims",
             "gender": "m",
             "birth": "1975-03-05",
             "death": "",
-            "parents": ["MaryJane1952"],
-            "level": 5
+            "parents": ["MaryJane1952", "Donald"],
+            "level": 6
         },
         "Brenda": {
             "primary": "Brenda",
@@ -883,7 +1090,7 @@
             "birth": "",
             "death": "",
             "spouses": ["Dave1951"],
-            "level": 4.25
+            "level": 5.25
         },
         "DaveWife2": {
             "primary": "DaveWife2",
@@ -892,7 +1099,7 @@
             "birth": "",
             "death": "",
             "spouses": ["Dave1951"],
-            "level": 4.25
+            "level": 5.25
         },
         "Davey1970": {
             "primary": "Davey",
@@ -901,7 +1108,7 @@
             "birth": "1970-06-21",
             "death": "1987-04-16",
             "parents": ["Dave1951", "Brenda"],
-            "level": 5
+            "level": 6
         },
         "Dana1980": {
             "primary": "Dana",
@@ -910,7 +1117,7 @@
             "birth": "1980-08-11",
             "death": "",
             "parents": ["Dave1951", "Brenda"],
-            "level": 5
+            "level": 6
         },
         "Tasia1999": {
             "primary": "Tasia",
@@ -919,7 +1126,7 @@
             "birth": "1999-10-29",
             "death": "",
             "parents": ["Dave1951", "DaveWife2"],
-            "level": 5
+            "level": 6
         },
         "Tamara2000": {
             "primary": "Tamara",
@@ -928,7 +1135,7 @@
             "birth": "2000-08-31",
             "death": "",
             "parents": ["Dave1951", "DaveWife2"],
-            "level": 5
+            "level": 6
         },
         "Lynn1958": {
             "primary": "Lynn",
@@ -937,7 +1144,7 @@
             "birth": "1958-04-10",
             "death": "",
             "spouses": ["Ken1958"],
-            "level": 4.25
+            "level": 5.25
         },
         "Jason1979": {
             "primary": "Jason",
@@ -946,7 +1153,7 @@
             "birth": "1979-07-15",
             "death": "",
             "parents": ["Ken1958", "Lynn1958"],
-            "level": 5
+            "level": 6
         },
         "Tammy1981": {
             "primary": "Tammy",
@@ -956,7 +1163,7 @@
             "death": "",
             "spouses": ["Shawn1983"],
             "parents": ["Ken1958", "Lynn1958"],
-            "level": 5
+            "level": 6
         },
         "Sarah1981": {
             "primary": "Sarah",
@@ -965,7 +1172,7 @@
             "birth": "1981-12-25",
             "death": "",
             "spouses": ["Jason1979"],
-            "level": 5.25
+            "level": 6.25
         },
         "Abigail2008": {
             "primary": "Abigail",
@@ -974,7 +1181,7 @@
             "birth": "2008-02-04",
             "death": "",
             "parents": ["Jason1979", "Sarah1981"],
-            "level": 6
+            "level": 7
         },
         "Shawn1983": {
             "primary": "Shawn",
@@ -983,7 +1190,7 @@
             "birth": "1983-12-09",
             "death": "",
             "spouses": ["Tammy1981"],
-            "level": 5.25
+            "level": 6.25
         },
         "JJ2008": {
             "primary": "JJ",
@@ -992,7 +1199,7 @@
             "birth": "2008-08-07",
             "death": "",
             "parents": ["Shawn1983", "Tammy1981"],
-            "level": 6
+            "level": 7
         },
         "Jackson2008": {
             "primary": "Jackson",
@@ -1001,7 +1208,7 @@
             "birth": "2008-06",
             "death": "",
             "parents": ["Dana1980"],
-            "level": 6
+            "level": 7
         },
         "Jane1958": {
             "primary": "Jane",
@@ -1010,7 +1217,7 @@
             "birth": "1958-03-15",
             "death": "",
             "spouses": ["Charlie1959"],
-            "level": 4.25
+            "level": 5.25
         },
         "Jordan1983": {
             "primary": "Jordan",
@@ -1019,7 +1226,7 @@
             "birth": "1983-12-14",
             "death": "",
             "parents": ["Charlie1959", "Jane1958"],
-            "level": 5
+            "level": 6
         },
         "Leigh1986": {
             "primary": "Leigh",
@@ -1028,7 +1235,7 @@
             "birth": "1986-11-09",
             "death": "",
             "parents": ["Charlie1959", "Jane1958"],
-            "level": 5
+            "level": 6
         },
         "Karen1963": {
             "primary": "Karen",
@@ -1037,7 +1244,7 @@
             "birth": "1963-10-11",
             "death": "",
             "spouses": ["Tom1962"],
-            "level": 4.25
+            "level": 5.25
         },
         "Justin1991": {
             "primary": "Justin",
@@ -1046,7 +1253,7 @@
             "birth": "1991-08-14",
             "death": "",
             "parents": ["Tom1962", "Karen1963"],
-            "level": 5
+            "level": 6
         },
         "Jenna1994": {
             "primary": "Jenna",
@@ -1055,7 +1262,7 @@
             "birth": "1994-04-03",
             "death": "",
             "parents": ["Tom1962", "Karen1963"],
-            "level": 5
+            "level": 6
         },
         "John1996": {
             "primary": "John",
@@ -1064,7 +1271,7 @@
             "birth": "1996-04-30",
             "death": "",
             "parents": ["Tom1962", "Karen1963"],
-            "level": 5
+            "level": 6
         },
         "Jared1998": {
             "primary": "Jared",
@@ -1073,7 +1280,7 @@
             "birth": "1998-11-04",
             "death": "",
             "parents": ["Tom1962", "Karen1963"],
-            "level": 5
+            "level": 6
         }
         
         
