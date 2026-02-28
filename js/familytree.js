@@ -382,10 +382,32 @@ function canvasLines() {
 }
 
 function exportPDF() {
-    network.fit();
+	network.moveTo({scale:1});
+	let minX = 0;
+	let maxX = 0;
+	let minY = 0;
+	let maxY = 0;
+	const positions = network.getPositions();
+	Object.keys(positions).forEach(key => {
+		const pos = positions[key];
+		if (pos.x < minX) {minX = pos.x}
+	    if (pos.x > maxX) {maxX = pos.x}
+	    if (pos.y < minY) {minY = pos.y}
+	    if (pos.y > maxY) {maxY = pos.y}
+	});
+	const canvas = document.querySelector('canvas');
+	const w = maxX - minX;
+	const h = maxY - minY;
+	canvas.style.width = `${maxX - minX}px`;
+	canvas.style.height = `${maxY - minY}px`;
+	canvas.width = `${maxX - minX}`;
+	canvas.height = `${maxY - minY}`;
+	network.fit();
+
     setTimeout(() => {
         const canvas = document.querySelector("canvas");
-        const imgData = canvas.toDataURL("image/png", 1.0)
+        const imgData = canvas.toDataURL("image/png", 1.0);
+        window.open(imgData);
         let pdf = new jspdf.jsPDF({orientation: "landscape", unit: "in", format: [17,11]});
         pdf.addImage(imgData, 'PNG', 0, 0);
         pdf.save("bowden.pdf");
